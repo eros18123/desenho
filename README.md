@@ -18,14 +18,10 @@ https://ankiweb.net/shared/info/456372554<br><br>
 15-Opçao para texto melhorada Aa<br>
 16-Botao de spray<br>
 17-Botao de sombra 3d (use o objeto de seleçao, selecione objeto e depois clique na sombra)<br>
-18-Preto e branco na imagem<br><br>
+18-Preto e branco na imagem<br>
+19-Caixa de dialogo de atalhos melhorada<br>
+20-Ligaçao de objetos (mapa mental) e curva (inclinar)<br>
+21-Com bandeirinhas de idioma (Brasil e EUA) para mudar idioma<br><br>
 
 https://github.com/user-attachments/assets/93450a79-66b2-4aec-b051-465e11a88f10
 
-
-
-
-
-19-Caixa de dialogo de atalhos melhorada
-20-Ligaçao de objetos (mapa mental) e curva (inclinar)
-21-Com bandeirinhas de idioma (Brasil e EUA) para mudar idioma
